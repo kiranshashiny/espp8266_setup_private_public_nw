@@ -1,5 +1,7 @@
 # espp8266_setup_private_public_nw
 
+This was picked from http://www.instructables.com/id/Using-the-ESP8266-module/?ALLSTEPS
+
 
 
 This Instructable will teach you how to use those $5.00 ESP8266 modules, as well as provide you some basic knowledge about networking. I'll be using the Micromite Companion Kit in my examples which is programmed in BASIC, however all of these instructions should be adaptable easily to your favorite micro.
